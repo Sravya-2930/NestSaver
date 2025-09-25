@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1098516869848",
+    "project_id": "nest-a65ca",
+    "storage_bucket": "nest-a65ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098516869848:android:1aceea45ba88cdd50a9dad",
+        "android_client_info": {
+          "package_name": "com.example.securenest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAopTi8QIl9ayvcB2fhF3E0MthwH_Zq_gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
